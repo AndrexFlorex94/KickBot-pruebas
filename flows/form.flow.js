@@ -51,7 +51,7 @@ const formFlow = addKeyword(EVENTS.ACTION)
                 if (error) {
                     throw error;
                 } else {
-                    console.log("Datos insertados correctamente");
+                    console.log("Datos insertados correctamentee");
                 }
             })
             conexion.end();
