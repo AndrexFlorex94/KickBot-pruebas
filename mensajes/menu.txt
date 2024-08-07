@@ -1,0 +1,8 @@
+Menu de opciones disponibles.
+
+1️⃣- Quiero ver el catalogo con todas las opciones disponibles 🍟🍕🍖🍴
+2️⃣- Quiero hacer una consulta sobre el catalogo 
+3️⃣- Ya estoy listo para hacer mi pedido ! 🗒️✍️
+4️⃣- Requiero un servicio de Mensajeria en general. 
+
+0️⃣- Volver al inicio
